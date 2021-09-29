@@ -3,13 +3,13 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://lantaoyu.github.io/images/isin-picture.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 # About Me
