@@ -1,10 +1,10 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=_NRCVloAAAAJ&hl)"
 permalink: /publications/
 author_profile: true
 ---
-<br>
-<b>[Pseudo-Spherical Contrastive Divergence](http://lantaoyu.com/publications/PSCD)</b> <br> 
+<!-- <br>
+<b>[Pseudo-Spherical Contrastive Divergence](http://lantaoyu.com/publications/PSCD)</b> <br>
 <b>Lantao Yu</b>, Jiaming Song, Yang Song, Stefano Ermon.
 <i>The 35th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2021</b>.
 
@@ -20,35 +20,35 @@ Jiankai Sun, <b>Lantao Yu</b>, Pinqian Dong, Bo Lu, Bolei Zhou.
 Yuandong Tian, <b>Lantao Yu</b>, Xinlei Chen, Surya Ganguli.
 <i>Preprint. arXiv:2010.00578</i>
 
-<b>[Autoregressive Score Matching](http://lantaoyu.com/publications/ARSM)</b> <br> 
+<b>[Autoregressive Score Matching](http://lantaoyu.com/publications/ARSM)</b> <br>
 Chenlin Meng, <b>Lantao Yu</b>, Yang Song, Jiaming Song, and Stefano Ermon.
 <i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.
 
-<b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 
+<b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br>
 Tianhe Yu<b>\*</b>, Garrett Thomas<b>\*</b> (equal contribution), <b>Lantao Yu</b>, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn, Tengyu Ma.
 <i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.
 
-<b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br> 
+<b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br>
 <b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon.
 <i>The 37th International Conference on Machine Learning</i>. <b>ICML 2020</b>.
 
-<b>[Improving Unsupervised Domain Adaptation with Variational Information Bottleneck](http://lantaoyu.com/publications/VBDA)</b> <br> 
+<b>[Improving Unsupervised Domain Adaptation with Variational Information Bottleneck](http://lantaoyu.com/publications/VBDA)</b> <br>
 Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu.
 <i>The 24th European Conference on Artificial Intelligence</i>. <b>ECAI 2020</b>.
 
-<b>[Improving Maximum Likelihood Training for Text Generation with Density Ratio Estimation](http://lantaoyu.com/publications/TextDR)</b> <br> 
+<b>[Improving Maximum Likelihood Training for Text Generation with Density Ratio Estimation](http://lantaoyu.com/publications/TextDR)</b> <br>
 Yuxuan Song, Ning Miao, Hao Zhou, <b>Lantao Yu</b>, Mingxuan Wang, Lei Li.
 <i>The 23rd International Conference on Artificial Intelligence and Statistics</i>. <b>AISTATS 2020</b>.
 
-<b>[Infomax Neural Joint Source-Channel Coding via Adversarial Bit Flip](http://lantaoyu.com/publications/IABF)</b> <br> 
+<b>[Infomax Neural Joint Source-Channel Coding via Adversarial Bit Flip](http://lantaoyu.com/publications/IABF)</b> <br>
 Yuxuan Song, Minkai Xu, <b>Lantao Yu</b>, Hao Zhou, Shuo Shao, Yong Yu.
 <i>The 34th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>.
 
-<b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://lantaoyu.com/publications/MetaIRL)</b> <br> 
+<b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://lantaoyu.com/publications/MetaIRL)</b> <br>
 <b>Lantao Yu</b><b>\*</b>, Tianhe Yu<b>\*</b> (equal contribution), Chelsea Finn, Stefano Ermon.
 <i>The 33rd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.
 
-<b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
+<b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br>
 <b>Lantao Yu</b>, Jiaming Song, Stefano Ermon.
 <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>. <b><span style="color:red">(Long Oral)</span></b>
 
@@ -86,5 +86,4 @@ Xuejian Wang<b>\*</b>, <b>Lantao Yu</b><b>\*</b> (equal contribution), Kan Ren, 
 
 <b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 <b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu.
-<i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
-
+<i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>. -->
