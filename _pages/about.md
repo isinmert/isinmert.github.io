@@ -14,10 +14,9 @@ redirect_from:
 
 # About Me
 * I am a PhD student at Aerospace Engineering and Engineering Mechanics Department at UT Austin.
-* My Research interests lies in ...
-* I obtained by BS degree from Bogazici University ...
+* My Research interests lies in stochastic optimal control and trajectory optimization problems in uncertain, safety critical systems.
+* I obtained by BS degree on Mechanical Engineering from Bogazici University graduating with the highest GPA () among 70 students.
 
 
 # Academic Services
-* Conference Reviewer: ...
-*
+* Conference Reviewer: ACC 2021, ACC 2022, CDC 2021
