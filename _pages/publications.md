@@ -3,11 +3,30 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+Complete list of publications can be seen from the google scholar profile.
+Here are some most relevant ones:
+
+ <br>
+<b>[Covariance Steering of Discrete-Time Stochastic Linear Systems Based on Wasserstein Distance Terminal Cost](http://https://isinmert.github.io/publications/LCSS1)</b> <br>
+<b>Isin M. Balci</b>, Efstathios Bakolas.
+<i>IEEE Control Systems Letters</i>. <b>L-CSS 2020</b>.
+
+<br>
+<b>[Covariance Control of Discrete-Time Gaussian Linear Systems Using Affine Disturbance Feedback Control Policies](http://https://isinmert.github.io/publications/CDC1)</b> <br>
+<b>Isin M. Balci</b>, Efstathios Bakolas.
+<i>Conference on Decision and Control 2021</i>. <b>CDC 2021</b>.
+
+<br>
+<b>[Constrained Covariance Steering Based Tube-MPPI](http://https://isinmert.github.io/publications/ACC1)</b> <br>
+<b>Isin M. Balci</b>, Efstathios Bakolas, Bogdan Vlahov, Evangelos Theodorou.
+<i>Submitted to ACC 2022</i>. <b>ACC 2022</b>.
+
 <!-- <br>
 <b>[Pseudo-Spherical Contrastive Divergence](http://lantaoyu.com/publications/PSCD)</b> <br>
 <b>Lantao Yu</b>, Jiaming Song, Yang Song, Stefano Ermon.
-<i>The 35th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2021</b>.
+<i>The 35th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2021</b>. -->
 
+<!--
 <b>[Multi-Agent Imitation Learning with Copulas](http://lantaoyu.com/publications/ECML21)</b> <br>
 Hongwei	Wang<b>\*</b>, <b>Lantao Yu</b><b>\*</b> (equal contribution), Zhangjie Cao, Stefano Ermon.
 <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i>. <b>ECML-PKDD 2021</b>.
