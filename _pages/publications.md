@@ -7,17 +7,17 @@ Complete list of publications can be seen from the google scholar profile.
 Here are some most relevant ones:
 
  <br>
-<b>[Covariance Steering of Discrete-Time Stochastic Linear Systems Based on Wasserstein Distance Terminal Cost](http://https://isinmert.github.io/_publications/LCSS1)</b> <br>
+<b>[Covariance Steering of Discrete-Time Stochastic Linear Systems Based on Wasserstein Distance Terminal Cost](http://isinmert.github.io/publications/LCSS1)</b> <br>
 <b>Isin M. Balci</b>, Efstathios Bakolas.
 <i>IEEE Control Systems Letters</i>. <b>L-CSS 2020</b>.
 
 <br>
-<b>[Covariance Control of Discrete-Time Gaussian Linear Systems Using Affine Disturbance Feedback Control Policies](http://https://isinmert.github.io/_publications/CDC1)</b> <br>
+<b>[Covariance Control of Discrete-Time Gaussian Linear Systems Using Affine Disturbance Feedback Control Policies](http://isinmert.github.io/publications/CDC1)</b> <br>
 <b>Isin M. Balci</b>, Efstathios Bakolas.
 <i>Conference on Decision and Control 2021</i>. <b>CDC 2021</b>.
 
 <br>
-<b>[Constrained Covariance Steering Based Tube-MPPI](http://https://isinmert.github.io/_publications/ACC1)</b> <br>
+<b>[Constrained Covariance Steering Based Tube-MPPI](http://isinmert.github.io/publications/ACC1)</b> <br>
 <b>Isin M. Balci</b>, Efstathios Bakolas, Bogdan Vlahov, Evangelos Theodorou.
 <i>Submitted to ACC 2022</i>. <b>ACC 2022</b>.
 
