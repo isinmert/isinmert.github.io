@@ -5,6 +5,6 @@ isinmertbalci:
   uri         : "http://isinmert.github.io"
   email       : "isinmertbalci@utexas.edu"
   bio         : "."
-  avatar      : "isin-pic4.jpg"
+  avatar      : "./images/isin-pic4.jpg"
   twitter     : "name"
   google_plus : "Name"
