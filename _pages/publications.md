@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 Complete list of publications can be seen from the google scholar profile.
-Here are some most relevant ones:
+Here are some of the most relevant ones:
 
  <br>
 <b>[Covariance Steering of Discrete-Time Stochastic Linear Systems Based on Wasserstein Distance Terminal Cost](https://isinmert.github.io/publications/LCSS1)</b> <br>
